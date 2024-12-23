@@ -2,7 +2,7 @@
 	<service>
 		<engineName>WordPress</engineName>
 		<engineLink>https://wordpress.org/</engineLink>
-		<homePageLink>https://annual.inven2.com/2016</homePageLink>
+		<homePageLink>/2016</homePageLink>
 		<apis>
 			<api name="WordPress" blogID="1" preferred="true" apiLink="/2016/xmlrpc.php" />
 			<api name="Movable Type" blogID="1" preferred="false" apiLink="/2016/xmlrpc.php" />
