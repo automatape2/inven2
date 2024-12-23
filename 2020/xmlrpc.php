@@ -2,13 +2,13 @@
 	<service>
 		<engineName>WordPress</engineName>
 		<engineLink>https://wordpress.org/</engineLink>
-		<homePageLink>http://localhost:8080/2020/</homePageLink>
+		<homePageLink>/2020/</homePageLink>
 		<apis>
-			<api name="WordPress" blogID="1" preferred="true" apiLink="http://localhost:8080/2020/xmlrpc.php" />
-			<api name="Movable Type" blogID="1" preferred="false" apiLink="http://localhost:8080/2020/xmlrpc.php" />
-			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="http://localhost:8080/2020/xmlrpc.php" />
-			<api name="Blogger" blogID="1" preferred="false" apiLink="http://localhost:8080/2020/xmlrpc.php" />
-				<api name="WP-API" blogID="1" preferred="false" apiLink="http://localhost:8080/2020/wp-json/" />
+			<api name="WordPress" blogID="1" preferred="true" apiLink="/2020/xmlrpc.php" />
+			<api name="Movable Type" blogID="1" preferred="false" apiLink="/2020/xmlrpc.php" />
+			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="/2020/xmlrpc.php" />
+			<api name="Blogger" blogID="1" preferred="false" apiLink="/2020/xmlrpc.php" />
+				<api name="WP-API" blogID="1" preferred="false" apiLink="/2020/wp-json/" />
 			</apis>
 	</service>
 </rsd>

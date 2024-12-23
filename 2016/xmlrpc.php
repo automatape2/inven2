@@ -4,11 +4,11 @@
 		<engineLink>https://wordpress.org/</engineLink>
 		<homePageLink>https://annual.inven2.com/2016</homePageLink>
 		<apis>
-			<api name="WordPress" blogID="1" preferred="true" apiLink="https://annual.inven2.com/2016/xmlrpc.php" />
-			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://annual.inven2.com/2016/xmlrpc.php" />
-			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://annual.inven2.com/2016/xmlrpc.php" />
-			<api name="Blogger" blogID="1" preferred="false" apiLink="https://annual.inven2.com/2016/xmlrpc.php" />
-				<api name="WP-API" blogID="1" preferred="false" apiLink="https://annual.inven2.com/2016/wp-json/" />
+			<api name="WordPress" blogID="1" preferred="true" apiLink="/2016/xmlrpc.php" />
+			<api name="Movable Type" blogID="1" preferred="false" apiLink="/2016/xmlrpc.php" />
+			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="/2016/xmlrpc.php" />
+			<api name="Blogger" blogID="1" preferred="false" apiLink="/2016/xmlrpc.php" />
+				<api name="WP-API" blogID="1" preferred="false" apiLink="/2016/wp-json/" />
 			</apis>
 	</service>
 </rsd>
